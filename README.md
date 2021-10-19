@@ -1,16 +1,10 @@
 # lastfm_app
 
-A new Flutter project.
+Coding challenge with LastFM API by Jens Freese
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get the app started you need to create a .env file in the project directory and enter the LastFM API.
+For the format you can take a look at the .env.example file.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can enter your own LastFM API key or write an e-mail to jensfreeze@gmail.com.
